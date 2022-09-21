@@ -1,0 +1,96 @@
+
+.site-header{
+    background-color: black;
+    color: beige;
+}
+
+.nav-link{
+    color: honeydew;
+}
+.nav-link:hover{
+    color: #04AA6D;
+  }
+
+.shopify{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: mediumseagreen;
+}
+
+
+#header{
+    background: url(/images/yellow\ hoodie.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    border-bottom: 10px;
+    background-size: 100%;
+    align-items: center;
+    width: 100%;
+    color: beige;
+}
+
+
+.dropdown-item:hover{
+    background-color: lightseagreen;
+}
+
+.btn{
+    border-radius: 10px;
+    border: 0;
+    background-color: red;
+    color: white;
+}
+
+.btn:hover{
+    background-color: white;
+    color: red;
+}
+
+.carousel-inner h1{
+    font-size: 64px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.carousel-inner h2{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifu;
+}
+.carousel-item .btn{
+    border-color: pink;
+}
+
+
+
+.btn1{
+    border-radius: 20px;
+    border: 6px;
+    border-color: black;
+    color: black;
+}
+.btn1:hover{
+    border-radius: 20px;
+    border: 0px;
+    background-color:red ;
+    color: white; 
+}
+
+.active-filter-btn{
+    background-color: red !important;
+    color: white !important;
+    border-color: red !important;
+
+}
+
+span{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.collection-list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem; 
+    }
+  }
